@@ -18,3 +18,4 @@ Command lines to execute when set up WSL and VS Code for the first time
 13. export FLASK_DEBUG=1 && flask run
 
 14. sudo apt-get install sqlite3
+15. .mode table
